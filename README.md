@@ -18,7 +18,7 @@ Here is the thing, it has been done before, but in a different way.  Google did 
 [Google did this](http://www.technologyreview.com/view/523326/how-google-cracked-house-number-identification-in-street-view/):  
 When you log in, to create a user account they ask you to enter in a code to ensure you are a human, right?  You are teaching a computer how to read, at the same time.  Every time it happens, the computer gets smarter.  They had the google car record images and at the same time longitude and latitude.  They told the computer to read the images, and tell what longitude and latitude it was taken.  They did this for the entire of France.
 
-It took less than two hours.
+_It took less than an hour._
 
 The computer doesn't care, it just sees data.  For the project I'm calling "LearnDNA" we apply the same sorts of statistics, just from a different source.
 Lets apply the deep learning practised in France to Malaria.
