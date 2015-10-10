@@ -15,7 +15,7 @@ From that, you can start to reverse engineer the structure from the alterations 
 
 Here is the thing, it has been done before, but in a different way.  Google did it with longitude and latitude.  These are tricky to tie to the earth because the earth changes, and you must be at the address to obtain the gps coordinates more or less.
 
-[Google did this)[http://www.technologyreview.com/view/523326/how-google-cracked-house-number-identification-in-street-view/]:  
+[Google did this](http://www.technologyreview.com/view/523326/how-google-cracked-house-number-identification-in-street-view/):  
 When you log in, to create a user account they ask you to enter in a code to ensure you are a human, right?  You are teaching a computer how to read, at the same time.  Every time it happens, the computer gets smarter.  They had the google car record images and at the same time longitude and latitude.  They told the computer to read the images, and tell what longitude and latitude it was taken.  They did this for the entire of France.
 
 It took less than two hours.
